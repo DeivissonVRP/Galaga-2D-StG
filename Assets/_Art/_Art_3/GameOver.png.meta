@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 768bd4dfc5abe374fab6e7b36a3d9e68
+guid: cc4e10650a9642b49a21697f81683730
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3485861035720983771
-    second: ReinicioGalaga (2)_0
-  - first:
-      213: -648188382980040675
-    second: ReinicioGalaga (2)_1
-  - first:
-      213: -2425291500787683998
-    second: ReinicioGalaga (2)_2
-  - first:
-      213: -2888115412193766226
-    second: ReinicioGalaga (2)_3
+      213: 8267157157857839708
+    second: Tela de Game over_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ReinicioGalaga (2)_0
+      name: Tela de Game over_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1938
-        height: 812
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,74 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52bb97d5bdbbf9fc0800000000000000
-      internalID: -3485861035720983771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReinicioGalaga (2)_1
-      rect:
-        serializedVersion: 2
-        x: 697
-        y: 734
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1890f4991c2107f0800000000000000
-      internalID: -648188382980040675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReinicioGalaga (2)_2
-      rect:
-        serializedVersion: 2
-        x: 759
-        y: 87
-        width: 27
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26da6c2da32a75ed0800000000000000
-      internalID: -2425291500787683998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ReinicioGalaga (2)_3
-      rect:
-        serializedVersion: 2
-        x: 1027
-        y: 60
-        width: 41
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea41cd1a55a5be7d0800000000000000
-      internalID: -2888115412193766226
+      spriteID: c5ac17042a7dab270800000000000000
+      internalID: 8267157157857839708
       vertices: []
       indices: 
       edges: []
@@ -223,10 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ReinicioGalaga (2)_0: -3485861035720983771
-      ReinicioGalaga (2)_1: -648188382980040675
-      ReinicioGalaga (2)_2: -2425291500787683998
-      ReinicioGalaga (2)_3: -2888115412193766226
+      Tela de Game over_0: 8267157157857839708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
