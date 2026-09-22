@@ -169,7 +169,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -439,6 +439,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1578392395}
   - component: {fileID: 1578392396}
+  - component: {fileID: 1578392399}
+  - component: {fileID: 1578392398}
+  - component: {fileID: 1578392397}
   m_Layer: 0
   m_Name: Starship_Clipart___Futuristic_Spacecraft_Design__1_-removebg-preview_0
   m_TagString: Untagged
@@ -520,6 +523,52 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &1578392397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578392394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d478a6b3047bd42aa8dcce4e8740ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerShooting
+  prefabProjetil: {fileID: 5089320907315309669, guid: 01d3c3c3d09a3ee46954f7b4eeb5809c, type: 3}
+  pontoDeDisparo: {fileID: 0}
+  cadenciaDeTiro: 0.3
+  teclaDeTiro: 32
+  offsetTiroDuplo: 0.3
+--- !u!114 &1578392398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578392394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c818e00e4e3e6744bcc4f06e55244b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Projectile
+  velocidade: 12
+  tempoDeVida: 3
+--- !u!114 &1578392399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1578392394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd784141ef7a7c46bc8d98c46156b90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  moveSpeed: 8
+  limiteEsquerdo: -8
+  limiteDireito: 8
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
