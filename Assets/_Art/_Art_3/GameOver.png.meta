@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 4457692dff8cf6c4eb20d4cf709a1da3
-=======
-guid: 5297c4365abaeb847b2632a9a4741630
->>>>>>> cf56656935d1a07de465fcfd15f4b2dc93a7807e
+guid: cc4e10650a9642b49a21697f81683730
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8305556988741907035
-    second: Para painel de STart_0
+      213: 8267157157857839708
+    second: Tela de Game over_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Para painel de STart_0
+      name: Tela de Game over_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2560
-        height: 1440
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ad86486cebbcbc80800000000000000
-      internalID: -8305556988741907035
+      spriteID: c5ac17042a7dab270800000000000000
+      internalID: 8267157157857839708
       vertices: []
       indices: 
       edges: []
@@ -152,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Para painel de STart_0: -8305556988741907035
+      Tela de Game over_0: 8267157157857839708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

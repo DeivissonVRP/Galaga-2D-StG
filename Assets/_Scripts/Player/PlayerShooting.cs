@@ -45,6 +45,12 @@ public class PlayerShooting : MonoBehaviour
             Instantiate(prefabProjetil, posEsquerda, Quaternion.identity);
             Instantiate(prefabProjetil, posDireita, Quaternion.identity);
         }
+
+        // Toca o som de disparo (laser)
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlaySFX(AudioManager.instance.sfxLaser);
+        }
     }
 
     public void AtivarTiroDuplo(float duracao)
