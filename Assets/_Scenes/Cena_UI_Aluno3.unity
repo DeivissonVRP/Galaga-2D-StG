@@ -1349,8 +1349,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
   bgmSource: {fileID: 1934599126}
-  bgmMenu: {fileID: 8300000, guid: 9281b2f1dd34ed449a9cbcf549e8c8f1, type: 3}
-  bgmGameplay: {fileID: 8300000, guid: 37fc6e77b4fffb64e95fa3cf52f8bb02, type: 3}
+  bgmMenu: {fileID: 8300000, guid: 9cca158cf7e0e8449af2e71c9fce60a2, type: 3}
+  bgmGameplay: {fileID: 8300000, guid: 6d7f9cfff19fa204fad28687e010f8e4, type: 3}
   sfxSource: {fileID: 1934599125}
   sfxLaser: {fileID: 8300000, guid: 606e01138435a444083b5fb75747092f, type: 3}
   sfxExplosionEnemy: {fileID: 8300000, guid: 3842c8a6a2a810643bb4df72a54655fd, type: 3}

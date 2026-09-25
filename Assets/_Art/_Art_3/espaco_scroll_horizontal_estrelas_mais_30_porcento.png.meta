@@ -1,14 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 4457692dff8cf6c4eb20d4cf709a1da3
-=======
-guid: 5297c4365abaeb847b2632a9a4741630
->>>>>>> cf56656935d1a07de465fcfd15f4b2dc93a7807e
+guid: 90f617e7539534a48a06cb032923b4c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8305556988741907035
-    second: Para painel de STart_0
+      213: -1663270924754252610
+    second: espaco_scroll_horizontal_estrelas_mais_30_porcento_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Para painel de STart_0
+      name: espaco_scroll_horizontal_estrelas_mais_30_porcento_0
       rect:
         serializedVersion: 2
         x: 0
@@ -132,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ad86486cebbcbc80800000000000000
-      internalID: -8305556988741907035
+      spriteID: ebc89c408efdae8e0800000000000000
+      internalID: -1663270924754252610
       vertices: []
       indices: 
       edges: []
@@ -152,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Para painel de STart_0: -8305556988741907035
+      espaco_scroll_horizontal_estrelas_mais_30_porcento_0: -1663270924754252610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

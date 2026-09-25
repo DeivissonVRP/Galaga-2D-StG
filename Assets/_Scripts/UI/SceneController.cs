@@ -3,14 +3,15 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-    // Chame esta função no botão "Iniciar Jogo"
+    // Chame esta função no botão "Iniciar Jogo" do Menu
+    // Agora leva ao video de explicacao antes do gameplay
     public void LoadGameplay()
     {
-        SceneManager.LoadScene("GameplayScene");
+        SceneManager.LoadScene("VideoExplicacao");
     }
 
     // Chame esta função no botão "Menu Principal"
-    public void LoadMainMenu()
+     public void LoadMainMenu()
     {
         SceneManager.LoadScene("MainMenuScene");
     }
