@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Galaga 2D.slnx",
+    "dotnet.defaultSolution": "Galaga-2D-StG.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
