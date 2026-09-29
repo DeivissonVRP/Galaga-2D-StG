@@ -3,8 +3,13 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 29
   productGUID: 098ec634f2da44e42adaa320f7f826f3
+=======
+  serializedVersion: 28
+  productGUID: cd3c6ec373aa07f459b1adf02b5c8a43
+>>>>>>> origin/main
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +18,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: oupjlk.o
+=======
+  productName: Galaga 2D
+>>>>>>> origin/main
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -65,15 +74,21 @@ PlayerSettings:
   useOSAutorotation: 1
   use32BitDisplayBuffer: 1
   preserveFramebufferAlpha: 0
+<<<<<<< HEAD
   adjustIOSFPSUsingThermalState: 1
   thermalStateSeriousIOSFPS: 30
   thermalStateCriticalIOSFPS: 15
+=======
+>>>>>>> origin/main
   disableDepthAndStencilBuffers: 0
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
   androidUseSwappy: 1
+<<<<<<< HEAD
   androidRequestedVisibleInsets: 0
   androidSystemBarsBehavior: 2
+=======
+>>>>>>> origin/main
   androidDisplayOptions: 1
   androidBlitType: 0
   androidResizeableActivity: 1
@@ -149,7 +164,12 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0
+<<<<<<< HEAD
   preloadedAssets: []
+=======
+  preloadedAssets:
+  - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+>>>>>>> origin/main
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   xboxOneDisableKinectGpuReservation: 1
@@ -177,7 +197,11 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
+<<<<<<< HEAD
   AndroidMinSdkVersion: 26
+=======
+  AndroidMinSdkVersion: 25
+>>>>>>> origin/main
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   AndroidPreferredDataLocation: 1
@@ -202,7 +226,10 @@ PlayerSettings:
   tvOSTargetOSVersionString: 15.0
   VisionOSSdkVersion: 0
   VisionOSTargetOSVersionString: 1.0
+<<<<<<< HEAD
   xcodeProjectType: 0
+=======
+>>>>>>> origin/main
   uIPrerenderedIcon: 0
   uIRequiresPersistentWiFi: 0
   uIRequiresFullScreen: 1
@@ -259,7 +286,11 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
+<<<<<<< HEAD
   templatePackageId: com.unity.template.universal-2d@6.1.5
+=======
+  templatePackageId: com.unity.template.universal-2d@6.1.3
+>>>>>>> origin/main
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -270,6 +301,10 @@ PlayerSettings:
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 2
+<<<<<<< HEAD
+=======
+  AndroidAllowedArchitectures: -13
+>>>>>>> origin/main
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: 
@@ -299,11 +334,22 @@ PlayerSettings:
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons: []
+<<<<<<< HEAD
   m_BuildTargetBatching: []
+=======
+  m_BuildTargetBatching:
+  - m_BuildTarget: Standalone
+    m_StaticBatching: 1
+    m_DynamicBatching: 0
+>>>>>>> origin/main
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
   m_BuildTargetGraphicsAPIs: []
+<<<<<<< HEAD
+=======
+  m_BuildTargetVRSettings: []
+>>>>>>> origin/main
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
   openGLRequireES31: 0
@@ -477,8 +523,11 @@ PlayerSettings:
   switchMicroSleepForYieldTime: 25
   switchRamDiskSpaceSize: 12
   switchUpgradedPlayerSettingsToNMETA: 0
+<<<<<<< HEAD
   switchCaStoreSource: 0
   switchCaStoreFilePath: 
+=======
+>>>>>>> origin/main
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -594,7 +643,10 @@ PlayerSettings:
     Android: 1
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
+<<<<<<< HEAD
   il2cppLTOMode: {}
+=======
+>>>>>>> origin/main
   il2cppStacktraceInformation: {}
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
@@ -609,14 +661,22 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: oupjlk.o
+=======
+  metroPackageName: Galaga 2D
+>>>>>>> origin/main
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: oupjlk.o
+=======
+  metroApplicationDescription: Galaga 2D
+>>>>>>> origin/main
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -664,6 +724,10 @@ PlayerSettings:
   XboxOneXTitleMemory: 8
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
+<<<<<<< HEAD
+=======
+  vrEditorSettings: {}
+>>>>>>> origin/main
   cloudServicesEnabled: {}
   luminIcon:
     m_Name: 
@@ -684,6 +748,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
+<<<<<<< HEAD
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
@@ -692,6 +757,16 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: oupjlk.o
   organizationId: unity_0001132725
+=======
+  activeInputHandler: 2
+  windowsGamepadBackendHint: 0
+  enableDirectStorage: 0
+  cloudProjectId: ee6e0408-177a-4f00-bcd9-bdaf38841691
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Galaga 2D
+  organizationId: deivissonvrp
+>>>>>>> origin/main
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

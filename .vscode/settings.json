@@ -60,12 +60,21 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
+<<<<<<< HEAD
         "*.unity": "yaml",
+=======
+        "*.unity": "yaml"
+>>>>>>> origin/main
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "oupjlk.o.slnx"
+=======
+    "dotnet.defaultSolution": "Galaga-2D-StG.slnx",
+    "dotnet.enableWorkspaceBasedDevelopment": false
+>>>>>>> origin/main
 }
